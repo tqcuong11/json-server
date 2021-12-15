@@ -1,0 +1,178 @@
+{
+    "dishes": [{
+            "id": 1,
+            "name": "Trà Dâu Tây Phương",
+            "cost": "18000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/trien-chill-coffee-and-tea-quan-6-ho-chi-minh-1634543966306402582-tra-dau-tay-phuong-1639276840?w=200&type=o"
+        },
+        {
+            "id": "2",
+            "name": "Cơm Gà Xối Mỡ",
+            "cost": "55000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/am-thuc-que-ta-quan-12-ho-chi-minh-1556450735647524944-com-chien-ga-xoi-mo-1557150904?w=200&type=o"
+        },
+        {
+            "id": "3",
+            "name": "Thập Cẩm Lớn",
+            "cost": "55000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/cha-lui-lagi-nem-nuong-quan-go-vap-ho-chi-minh-1581562936246695841-thap-cam-lon-1607274875?w=200&type=o"
+        },
+        {
+            "id": "4",
+            "name": "Orio Tuyết - 1 Ly",
+            "cost": "30000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/fox-tea-van-kiep-quan-binh-thanh-ho-chi-minh-1636168405983472335-choco-tuyet-0-1636343613?w=200&type=o"
+        },
+        {
+            "id": "5",
+            "name": "Lẩu Ly Lớn",
+            "cost": "35000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/an-vat-tran-lien-quan-5-ho-chi-minh-1557373215809543150-lau-ly-lon-1634454310?w=200&type=o"
+        },
+        {
+            "id": "6",
+            "name": "Hồn Vải Lài",
+            "cost": "18000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/trien-chill-coffee-and-tea-quan-6-ho-chi-minh-1634543966306402582-hon-vai-lai-1637753719?w=200&type=o"
+        },
+        {
+            "id": "7",
+            "name": "Xoài Dứa Macchiato",
+            "cost": "49000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/phuc-long-coffee-and-tea-house-saigon-centre-quan-1-ho-chi-minh-1600081108844505850-tra-lai-dac-thom-0-1638289982?w=200&type=o"
+        },
+        {
+            "id": "8",
+            "name": "Trà Vải Lài - 1 Ly",
+            "cost": "55000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/phuc-long-coffee-and-tea-sample-thanh-pho-pleiku-gia-lai-1600143339850657852-tra-vai-lai-1600153166?w=200&type=o\""
+        },
+        {
+            "id": "9",
+            "name": "Cookkies & Cream",
+            "cost": "54000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/gcream-milktea-and-coffee-quan-12-ho-chi-minh-1639016779607701977-gcream-cookie-1639115153?w=200&type=o"
+        },
+        {
+            "id": "10",
+            "name": "Trà Sữa TRân Châu Phô Mai Viên",
+            "cost": "27000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/posso-coffee-and-milk-tea-245k-chu-van-an-quan-binh-thanh-ho-chi-minh-1638863152817454899-tra-sua-tran-chau-pho-mai-vien-1638867521?w=200&type=o"
+        },
+        {
+            "id": "11",
+            "name": "Gà Ủ Muối",
+            "cost": "270000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/ga-u-muoi-bao-an-quan-binh-tan-ho-chi-minh-1637724523895935310-ga-u-muoi-1637737403?w=200&type=o"
+        },
+        {
+            "id": "12",
+            "name": "Bún Đậu, Thịt, Chả, Dồi",
+            "cost": "55000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/bun-dau-3-chi-em-binh-tri-dong-quan-binh-tan-ho-chi-minh-1566112203233466248-bun-dau-thit-cha-doi-1566275375?w=200&type=o"
+        },
+        {
+            "id": "13",
+            "name": "Bánh Bao Kẹp Bò Nướng",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/fox-tea-van-kiep-quan-binh-thanh-ho-chi-minh-1636168405983472335-banh-bao-kep-bo-nuong-0-1636345296?w=200&type=o",
+            "cost": "25000"
+        },
+        {
+            "id": "14",
+            "name": "Cá Viên Chiên Nước Mắm",
+            "cost": "50000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/thinh-milktea-da-nang-1632059363085748471-ca-vien-chien-nuoc-mam-1632407467?w=200&type=o"
+        },
+        {
+            "id": "15",
+            "name": "Trà Gừng",
+            "cost": "35000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/loship-sample-tra-sua-sua-tuoi-dd-tra-trai-cay-milkfoam-thi-xa-cam-ranh-khanh-ho-1597026837684004649-tra-gung-1602060070?w=640&type=o"
+        },
+        {
+            "id": "16",
+            "name": "Sinh Tố Xoài",
+            "cost": "45000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/radio-coffee-tran-phu-quan-hai-chau-da-nang-1611443574960235592-sinh-to-xoai-1611443578?w=640&type=o"
+        },
+        {
+            "id": "17",
+            "name": "Sinh Tố Việt Quất",
+            "cost": "40000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/loship-sample-cafe-thi-xa-cam-ranh-khanh-hoa-1590031685747253178-kiwi-da-xay-1608103338?w=640&type=o"
+        },
+        {
+            "id": "18",
+            "name": "Mì Trộn Hải Sản Đặc Biệt",
+            "cost": "65000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/an-vat-xuyen-dem-quan-hai-chau-da-nang-1633281136765912522-mi-tron-hai-san-dac-biet-1633887250?w=200&type=o"
+        },
+        {
+            "id": "19",
+            "name": "Phở Bò Viên",
+            "cost": "50000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/loship-sample-pho-bo-thi-xa-cam-ranh-khanh-hoa-1589950025215839626-pho-bo-vien-1590201360?w=200&type=o"
+        },
+        {
+            "id": "20",
+            "name": "Súp Cua Thập Cẩm",
+            "cost": "50000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/ba-phi-diem-tam-va-an-vat-quan-6-ho-chi-minh-1606830784738511491-sup-cua-thap-cam-nho-1638700664?w=200&type=o"
+        },
+        {
+            "id": "21",
+            "name": "Mì Gói Phá Lấu",
+            "cost": "45000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/pha-lau-bo-34-quan-10-ho-chi-minh-1637505463295946096-my-goi-pha-lau-1637505829?w=200&type=o"
+        },
+        {
+            "id": "22",
+            "name": "Tré Trộn Tỏi Ớt",
+            "cost": "50000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/tre-tron-giang-hoang-quan-tan-binh-ho-chi-minh-1634987646566961883-tre-tron-toi-ot-1635043005?w=200&type=o"
+        },
+        {
+            "id": "23",
+            "name": "Mì Kim Chi Hải Sản",
+            "cost": "52000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/mi-cay-seoul-quan-go-vap-ho-chi-minh-1638339603054365175-mi-kim-chi-hai-san-1638367436?w=200&type=o"
+        },
+        {
+            "id": "24",
+            "name": "Bún Thập Cẩm",
+            "cost": "45000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/tho-quan-4-ho-chi-minh-1636183247618358640-bun-thap-cam-1636203596?w=200&type=o"
+        },
+        {
+            "id": "25",
+            "name": "Cháo Ếch Singapore",
+            "cost": "45000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/chao-ech-singapore-le-sao-quan-tan-phu-ho-chi-minh-1568172267014302712-chao-ech-singapore-phan-1-con-1568172364?w=200&type=o"
+        },
+        {
+            "id": "26",
+            "name": "Sữa Tươi Trân Châu Đường Đen",
+            "cost": "68000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/xing-fu-tang-vietnam-tra-sua-dai-loan-phan-xich-long-quan-phu-nhuan-ho-chi-minh-1612227357785642493-sua-tuoi-tran-chau-duong-den-lanh-1637131461?w=200&type=o"
+        },
+        {
+            "id": "27",
+            "name": "Xoài Non Mắm Ruốc",
+            "cost": "59000",
+            "img": "https://tea-3.lozi.vn/v1/ship/resized/yumi-fruit-trai-cay-sach-sinh-to-an-vat-quan-3-ho-chi-minh-1555172802723083045-xoai-non-mam-ruoc-1555993903?w=200&type=o"
+        }
+    ],
+    "users": [{
+            "name": "Nguyễn Văn A",
+            "password": "1234567"
+        },
+        {
+            "name": "Nguyễn Thị B",
+            "password": "7654321"
+        },
+        {
+            "name": "Trần Văn C",
+            "password": "123456"
+        }
+    ]
+}
